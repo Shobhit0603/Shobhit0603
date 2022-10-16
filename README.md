@@ -39,7 +39,7 @@
  -->
 <br/>
 
-<a href="https://github.com/ankitmrmishra">
+<a href="https://github.com/Shobhit0603">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shobhit0603&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0603&theme=buefy&layout=compact" />
 </a>
