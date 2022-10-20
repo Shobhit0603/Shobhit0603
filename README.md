@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm.
-- ✍️ &nbsp; Pursuing Blog Writing as hobby.
+- ✍️ &nbsp; Pursuing Blog Writing,engaging in new things and working for the feild of AI as my hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
