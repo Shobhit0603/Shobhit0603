@@ -54,7 +54,7 @@
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/shobhit-saini-b0156a239/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SHOBHIT%20SAINI-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_shobhit_sainii_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_shobhit_sainii_-blue?style=flat-square&logo=instagram"></a>
-<a href="shobhit0603@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shobhit0603@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shobhit0603@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shobhit0603@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [SHOBHIT SAINI](https://github.com/Shobhit0603)
