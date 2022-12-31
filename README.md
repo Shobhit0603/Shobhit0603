@@ -2,6 +2,8 @@
 
 <h2> Hey there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> ! I'm Shobhit Saini.</h2>
 
+![Visitor Count](https://profile-counter.glitch.me/{Shobhit0603}/count.svg)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
