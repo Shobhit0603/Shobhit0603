@@ -49,7 +49,8 @@
 <a href="https://github.com/Shobhit0603">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shobhit0603&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0603&theme=tokyonight" />
-	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0603&theme=tokyonight&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0603&theme=tokyonight" />
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </a>
 
