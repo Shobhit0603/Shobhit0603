@@ -40,13 +40,27 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
 <br/>
+<!-- <img src="https://img.shields.io/github/followers/Shobhit0603?style=social"></img -->
+<br/>
+<img src="https://img.shields.io/github/followers/Shobhit0603?style=social"></img>
+
+[![Shobhit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shobhit0603&theme=dracula)](https://github.com/Shobhit0603/github-readme-activity-graph)
 
 <a href="https://github.com/Shobhit0603">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shobhit0603&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhit0603&theme=tokyonight" />
+	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0603&theme=tokyonight&layout=compact" />
+
+</a>
+
+<br/>
+
+<!-- <a href="https://github.com/Shobhit0603">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shobhit0603&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit0603&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+<br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
